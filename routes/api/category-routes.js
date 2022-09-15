@@ -1,9 +1,9 @@
 const router = require('express').Router();
-const { Category, Product } = require('models');
+const { Category, Product } = require('../../models');
 
 // The `/api/categories` endpoint
 //do i need categories after .get or just leave '/'
-router.get('/api/categories', (req, res) => {
+router.get('/', (req, res) => {
   // find all categories
   Category.findAll({include: [Product]})
   .then(info => {
@@ -16,7 +16,7 @@ router.get('/api/categories', (req, res) => {
 });
 
 //route to get a product by id
-router.get('/api/categories/:id', (req, res) => {
+router.get('/:id', (req, res) => {
   // find one category by its `id` value
   Category.findOne({where: {id: req.params.id}, include: [Product]})
   .then(info => {

@@ -28,6 +28,8 @@ A get request using the product id.
 
 ## License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## How to Contribute 
 
 

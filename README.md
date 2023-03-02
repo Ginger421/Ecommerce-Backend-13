@@ -31,11 +31,11 @@ A get request using the product id.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## How to Contribute 
-
+Contributors could add a front end to this application.
 
 ## Testing 
 No testing was done on this application
 
 ## Questions
-Email: vlparker@g.cofc.edu
+Email: gingerowen0421@gmail.com
 GitHub: ginger421

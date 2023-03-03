@@ -14,7 +14,7 @@ Ecommerce-Backend is the API for the backend od and ecommerce site. Node.js, Seq
 1. Clone the repo to your machine. 2. Open a terminal and run npm install. 3. Start MySQL with mysql -u root -p. Then enter your mysql password. Run source db/schema.sql to generate your database. When you are finished generating the database, enter quit to quit MySQL. 4. Run npm run seed to seed your data.
 
 ## Usage
-To use the application, open Insomnia and then navigate to your reporun npm start in the terminal. Now you can test the routes in Insomnia.
+To use the application, open Insomnia and then navigate to your local repo then run npm start in the terminal. Now you can test the routes in Insomnia.
 
 Get request to return all tags.
 ![image](https://user-images.githubusercontent.com/101539821/192672787-7d1429d5-d52e-4aed-b821-4859f3e3464c.png)

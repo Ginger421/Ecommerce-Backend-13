@@ -1,7 +1,7 @@
 # Ecommerce-Backend-13
 
 ## Description
-Ecommerce-Backend is the API for the backend od and ecommerce site. Node.js, Sequelize and MySQL were used to develope Ecommerce-Backend-13. Here is a link to teh GitHub repo: https://github.com/Ginger421/Ecommerce-Backend-13. This is a walk through video: https://drive.google.com/file/d/1_0qOVbnveNG2Ct4-6x1sdPjY6Kw2ht2f/view
+Ecommerce-Backend is the API for the backend of and ecommerce site. Node.js, Sequelize and MySQL were used to develope Ecommerce-Backend-13. Here is a link to the GitHub repo: https://github.com/Ginger421/Ecommerce-Backend-13. This is a walk through video: https://drive.google.com/file/d/1_0qOVbnveNG2Ct4-6x1sdPjY6Kw2ht2f/view
 
 ## Table of Contents
 * [Installation](#installation)

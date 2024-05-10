@@ -6,7 +6,7 @@ Ecommerce-Backend is a RESTful API for the backend of an ecommerce site. Node.js
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [License](#)
+* [License](#license)
 * [Testing](#testing)
 * [Questions](#questions)
 
